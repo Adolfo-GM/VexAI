@@ -1,2 +1,9 @@
 # Vex AI
-![robot](obstacle_avoiding.mp4)
+
+# Features:
+- obstacle avoidance
+- autonomus piloting
+- 
+
+
+[Watch the video](obstacle_avoiding.mp4)
